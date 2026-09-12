@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.output/
+.nitro/
+.tanstack/
+.vercel/
+.project_id
+.github_repo
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+artifacts/.tmp/
+attachments/
